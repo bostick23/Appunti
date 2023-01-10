@@ -3,5 +3,6 @@
 Prova blocco appunti in markdown
 
 ## Sommario
-### SQL Server
-- Contare le righe di tutte le tabelle [Link](/sql-server/contare-righe.md)
+- [7-Zip](/7-zip.md)
+- **SQL Server**
+    - [Contare le righe di tutte le tabelle](/sql-server/contare-righe.md)
