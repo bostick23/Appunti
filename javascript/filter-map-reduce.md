@@ -12,7 +12,6 @@ La funzione __map__ consente di applicare una funzione ad ogni elemento della li
 ``` javascript
 const numbers = [1, 4, 5, 6, 4, 2, 5, 6, 3, 1]
 const quadrati = numbers.map(x => x * x)
-const somma = numbers.reduce((accumulatore, valore) => { return accumulatore + valore }, 0)
 console.log('Quadrati: ', quadrati)
 ```
 ## Reduce
