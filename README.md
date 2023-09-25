@@ -10,3 +10,5 @@ Prova blocco appunti in markdown
     - [Fare backup di un database tramite query](/sql-server/backup-database.md)
 - __Javascript__
     - [Filter, Map e Reduce](/javascript/filter-map-reduce.md)
+- __Linux__
+    - [Manutenzione](/linux/manutenzione.md)
