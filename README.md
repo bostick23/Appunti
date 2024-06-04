@@ -12,3 +12,5 @@ Prova blocco appunti in markdown
     - [Filter, Map e Reduce](/javascript/filter-map-reduce.md)
 - __Linux__
     - [Manutenzione](/linux/manutenzione.md)
+- __Entity Framework__
+    - [Migrations](/ef/migrations.md)
